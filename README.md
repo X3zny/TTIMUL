@@ -1,3 +1,6 @@
+# ⚠️ IMPORTANT ⚠️
+I originally created this project for my Trimui Smart Pro and for other users of the device. However, this tool can be used on any compatible device, so feel free to use it as you like! 🚀
+
 # 🎵 Trimui MP3ToMP4 Converter 🎥
 
 Convert your MP3 files into MP4 videos with album covers as static images! Perfect for uploading music with visuals to platforms like YouTube. 🚀
